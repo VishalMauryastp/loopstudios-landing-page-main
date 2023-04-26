@@ -36,7 +36,7 @@ This is a solution to the [Loopstudios landing page challenge on Frontend Mentor
 ### Links
 
 - Solution URL: [View Code](https://github.com/VishalMauryastp/loopstudios-landing-page-main)
-- Live Site URL: [Preview](https://vishalmauryastp.github.io/loopstudios-landing-page-main/)
+- Live Site URL: [Preview](https://loopstudios-landing-page-main-vm.vercel.app/)
 
 ## My process
 
