@@ -29,7 +29,7 @@ This is a solution to the [Loopstudios landing page challenge on Frontend Mentor
 
 | Desktop                                                                       | Mobile                                                                        |
 | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| ![imagw](./public/Screenshot%202023-04-26%20at%2007-59-33%20Vite%20React.png) | ![image](./public/Screenshot%202023-04-26%20at%2007-59-04%20Vite%20React.png) |
+| ![imagw](./public/desktop.png) | ![image](./public/mobile.png) |
 
 
 
