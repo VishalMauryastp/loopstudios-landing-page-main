@@ -1,0 +1,39 @@
+
+@media (max-width:1024px) {
+    .VR_content{
+    right: -1%;
+    bottom: -12rem;
+    padding: .3rem;
+    /* min-height: 80vh; */
+    
+    
+    }
+    .VR_content h2{
+        font-size: 1.5rem;
+        margin-top: 20px;
+        line-height: .8;
+    }
+    .VR_content p{
+        margin-top: 20px;
+    }
+
+    
+}
+
+@media (max-width:965px) {
+    .VR_content{
+    right: -1%;
+    bottom: -17rem;
+    padding: .3rem;
+    }
+}
+@media (max-width:912px) {
+    .VR_content{
+    right: -1%;
+    bottom: -23rem;
+    padding: .3rem;
+    }
+}
+@media (max-width:700px) {
+    
+}
