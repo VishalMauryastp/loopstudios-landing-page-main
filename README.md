@@ -64,7 +64,7 @@ This is a solution to the [Loopstudios landing page challenge on Frontend Mentor
 
 ### Continued development
 
-- While I'm starting to create this design then I created desktop view first after that I created the mobile view by sing media query.
+- While I'm starting to create this design then I created desktop view first after that I created the mobile view by some media query.
 
 
 
@@ -76,7 +76,7 @@ This is a solution to the [Loopstudios landing page challenge on Frontend Mentor
 
 
 ## Author
-- Gitgub - [@Vishal Mauruya](https://github.com/VishalMauryastp)
+- Github - [@Vishal Mauruya](https://github.com/VishalMauryastp)
 - Frontend Mentor - [@Vishal Mauruya](https://www.frontendmentor.io/profile/VishalMauryastp)
 - LinkedIn - [@Vishal Maurya](https://www.linkedin.com/in/in-vishalmaurya/)
 - Instagram-[@Vishal Maurya](https://www.instagram.com/VishalMauryastp)
